@@ -4,15 +4,15 @@ All the magical elements available, with some being available to the base races,
 
 ## Base:
 
-- Air
-- Earth
-- Fire
-- Ice
-- Light
-- Nature
-- Primal
-- Shadow
-- Water
+- [Air](#Air)
+- [Earth](#Earth)
+- [Fire](#Fire)
+- [Ice](#Ice)
+- [Light](#Light)
+- [Nature](#Nature)
+- [Primal](#Primal)
+- [Shadow](#Shadow)
+- [Water](#Water)
 
 ## Unlockable:
 

@@ -4,7 +4,7 @@ This is a very rudementary look into a magic system that intrigues me, most of t
 
 In this magic system, characters harness the power of different elements by combining them with various weapons to create unique classes and abilities. Each element provides distinct magical properties, while weapons influence how those properties are applied in combat. Here’s a breakdown of how the system works:
 
-Base Elements:
+Base [Elements](elements.md):
 
 - **Air:** Represents agility, speed, and control. Abilities often enhance movement, create barriers of wind, or manipulate the environment for strategic advantages.
 - **Earth:** Symbolizes strength, stability, and fortification. Abilities include creating defensive structures, manipulating terrain, or enhancing physical power.
@@ -16,7 +16,7 @@ Base Elements:
 - **Shadow:** Symbolizes stealth, darkness, and illusion. Abilities include invisibility, shadow manipulation, and deceptive tactics.
 - **Water:** Represents adaptability, fluidity, and support. Abilities involve controlling water, healing, and manipulating the environment through liquid.
 
-Base Weapons:
+Base [Weapons](weapons.md):
 
 - **Bow:** A ranged weapon used for precise attacks from a distance.
 - **Daggers:** Small, versatile weapons suited for quick, close-quarters combat.

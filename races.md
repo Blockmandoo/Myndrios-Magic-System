@@ -30,18 +30,18 @@ All available races, you'll start out with the base races, and then have the abi
 
 ## Unlockable:
 
-- Avians
-- Catfolk
-- Chimerakin
-- Faekin
-- Foxfolk
-- Golems
-- Kobolds
-- Minotaurs
-- Naga
-- Rabbitfolk
-- Treants
-- Wolfkin
+- [Avians](#Avians)
+- [Catfolk](#Catfolk)
+- [Chimerakin](#Chimerakin)
+- [Faekin](#Faekin)
+- [Foxfolk](#Foxfolk)
+- [Golems](#Golems)
+- [Kobolds](#Kobolds)
+- [Minotaurs](#Minotaurs)
+- [Naga](#Naga)
+- [Rabbitfolk](#Rabbitfolk)
+- [Treants](#Treants)
+- [Wolfkin](#Wolfkin)
 
 ## Advanced:
 

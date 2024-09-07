@@ -1,6 +1,6 @@
 # Myndrios Magic System
 
-This is a very rudementary look into a magic system that intrigues me, most of the ideas are not complete, I just wanted somewhere that I can see all of it together.
+This is a very rudimentary look into a magic system that intrigues me, most of the ideas are not complete, I just wanted somewhere that I can see all of it together.
 
 In this magic system, characters harness the power of different elements by combining them with various weapons to create unique classes and abilities. Each element provides distinct magical properties, while weapons influence how those properties are applied in combat. Here’s a breakdown of how the system works:
 
@@ -25,7 +25,7 @@ Base [Weapons](weapons.md):
 - **Sword:** A balanced melee weapon for versatile combat.
 - **Tome:** A magical book used for spellcasting and enhancing abilities.
 
-Examples of Weapons and their Elemental Combinations:
+Examples of Weapons and their Elemental [Combinations](classes.md):
 
 - **Air + Bow = Zephyr Marksman:** Enhanced speed and precision with wind-based projectiles.
 - **Earth + Gauntlets = Stonebreaker:** Uses earth to deliver powerful, crushing blows.

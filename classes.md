@@ -194,7 +194,7 @@ Available classes from the given [Elements](elements.md) and [Weapons](weapons.m
 - [Nature + Hammers = Wildheart](#Wildheart)
 - [Nature + Longbows = Sylvan Marksman](#Sylvan-Marksman)
 - [Nature + Maces = Earthshaker](#Earthshaker)
-- [Nature + Orbs = Nature’s Oracle](#Natures-Oracle)
+- [Nature + Orbs = Nature's Oracle](#Natures-Oracle)
 - [Nature + Slings = Thornslinger](#Thornslinger)
 - [Nature + Staves = Verdant Seer](#Verdant-Seer)
 - [Nature + War Drums = Forest Warcaller](#Forest-Warcaller)
@@ -634,11 +634,31 @@ Earth + Wands
 
 Fire + Axes
 
+- **Description:** The Inferno Berserker combines the raw destructive power of Fire with the brutal force of Axes, creating a fierce and relentless warrior. Wielding axes that burn with searing flames, this class excels at unleashing fiery chaos in melee combat. Inferno Berserkers are known for their aggressive fighting style, capable of dealing devastating fire-infused blows that ignite the battlefield and overwhelm their enemies with raw heat and power.
+- **Abilities:**
+  - **Flame Cleave:** The Inferno Berserker swings their axe in a wide arc, sending out a wave of fire that burns enemies in its path. This ability deals both physical and fire damage, leaving enemies with lingering burns.
+  - **Blazing Charge:** Enraged with fire, the Berserker charges forward, igniting everything in their way. This attack closes the distance between them and their target while setting nearby foes ablaze.
+  - **Molten Fury:** With each swing of their axe, the Inferno Berserker builds up heat, increasing their damage output. As the heat reaches its peak, their attacks explode into molten eruptions, dealing heavy area-of-effect fire damage.
+  - **Scorched Earth:** The Inferno Berserker slams their axe into the ground, creating a fiery shockwave that scorches the terrain. Enemies caught in the radius are burned, and the ground remains alight, causing ongoing damage to those who stand in it.
+  - **Infernal Rage:** The ultimate ability allows the Inferno Berserker to enter a fiery rage, greatly increasing their attack speed and fire damage. During this state, every attack causes fire explosions, making them a whirlwind of flame and destruction.
+- **Combat Style:** The Inferno Berserker thrives on aggressive, close-quarters combat, using their axes to deliver powerful fire-infused strikes. They excel at dealing high burst damage and overwhelming enemies with a relentless barrage of fiery attacks. Their abilities allow them to control the battlefield with flames, making them a force of chaotic destruction.
+- **Regard:** Inferno Berserkers are both feared and respected for their volatile nature and unparalleled offensive power. Their ability to combine the brutal force of their axes with the devastating heat of fire makes them formidable in battle. Though they often sacrifice defense for pure aggression, their raw destructive potential ensures that they are a force to be reckoned with on the front lines.
+
 <!-- Fire + Bows = Ember Archer -->
 
 ### Ember Archer
 
 Fire + Bows
+
+- **Description:** The Ember Archer blends the precision of a Bow with the destructive heat of Fire, creating a ranged combatant who shoots arrows ignited with intense flames. Known for their ability to set the battlefield ablaze from a distance, Ember Archers excel at long-range damage, raining fiery arrows upon their enemies and engulfing entire areas in flames.
+- **Abilities:**
+  - **Flame Arrow:** The Ember Archer fires a flaming arrow that ignites upon impact, dealing fire damage and setting the target ablaze. The fire spreads to nearby enemies, causing burn damage over time.
+  - **Blazing Volley:** Unleashing a rapid volley of arrows, the Ember Archer blankets a large area with fiery projectiles. Each arrow explodes on contact, leaving patches of fire that continue to burn for a short time.
+  - **Phoenix Shot:** The Archer fires a special arrow imbued with the essence of a phoenix. Upon hitting its target, it explodes into a burst of flames and summons a fiery bird that circles the battlefield, dealing continuous fire damage to enemies in its path.
+  - **Inferno Rain:** The Ember Archer launches several arrows into the sky, which then fall as fiery meteors, engulfing the battlefield in a rain of fire. This ability creates a large area-of-effect firestorm that deals damage over time.
+  - **Scorching Precision:** The ultimate ability allows the Ember Archer to focus their fire magic into a single, powerful shot. This shot pierces through enemies, exploding on impact and leaving a trail of fire that ignites everything it touches.
+- **Combat Style:** The Ember Archer specializes in long-range fire attacks, using their bow to ignite enemies and control the battlefield with burning arrows. They focus on precise, high-damage shots that spread fire across multiple targets, making them experts at both direct and area-of-effect damage from a safe distance.
+- **Regard:** Ember Archers are admired for their ability to control and manipulate fire from afar, raining destruction upon their enemies without getting close to the heat of battle. Their mastery over both the bow and fire makes them versatile and deadly, able to shape the battlefield to their advantage with fiery precision.
 
 <!-- Fire + Clubs = Flamebreaker -->
 
@@ -646,11 +666,31 @@ Fire + Bows
 
 Fire + Clubs
 
+- **Description:** The Flamebreaker is a powerful warrior who combines the raw, blunt force of a Club with the destructive intensity of Fire. This class is known for its ability to crush foes with fiery might, using their heavy club to deliver devastating blows that erupt in flames. Flamebreakers are relentless in combat, excelling at close-range destruction and crowd control by setting the battlefield ablaze with every swing.
+- **Abilities:**
+  - **Molten Smash:** The Flamebreaker slams their fiery club into the ground, creating a shockwave of molten fire that spreads outwards. This attack deals significant fire and physical damage to enemies caught in the blast, leaving them burning.
+  - **Blazing Onslaught:** The Flamebreaker unleashes a series of rapid, flaming strikes with their club, overwhelming a single target or a small group of enemies. Each hit builds up heat, causing the final blow to erupt in a powerful fire explosion.
+  - **Ember Shield:** By channeling fire magic through their club, the Flamebreaker creates a protective shield of swirling embers. This shield reduces incoming damage and burns any enemies who strike the Flamebreaker in melee.
+  - **Inferno Quake:** The Flamebreaker slams their club into the ground with immense force, causing a fiery earthquake that knocks down and damages all nearby enemies. The ground remains scorched, dealing ongoing fire damage to anyone standing in the area.
+  - **Eruption Strike:** The ultimate ability allows the Flamebreaker to channel their fire magic into a single, devastating blow. When the club hits the ground, it causes a massive eruption of fire and magma, dealing massive area-of-effect damage and leaving the ground ablaze.
+- **Combat Style:** The Flamebreaker excels in close-quarters combat, using their heavy club to deliver powerful, fire-infused strikes that cause widespread destruction. Their abilities focus on combining physical power with fire magic, making them formidable at both dealing damage and controlling the battlefield through fiery shockwaves and eruptions.
+- **Regard:** Flamebreakers are both feared and respected for their sheer destructive capability. Their ability to combine the crushing power of a club with the consuming force of fire makes them a dominant force in any battle. While they may lack the finesse of more agile fighters, their overwhelming strength and fiery wrath ensure that they are a force to be reckoned with, capable of turning the tide of battle through sheer force and flame.
+
 <!-- Fire + Daggers = Inferno Blade -->
 
 ### Inferno Blade
 
 Fire + Daggers
+
+- **Description:** The Inferno Blade is a swift and deadly assassin who combines the speed and precision of Daggers with the fiery power of Fire. Masters of close-range combat, Inferno Blades rely on fast, burning strikes that leave their enemies scorched and disoriented. These assassins strike swiftly and with deadly accuracy, using flames to enhance their attacks and cripple their opponents.
+- **Abilities:**
+  - **Ember Strike:** The Inferno Blade ignites their daggers and delivers a series of quick, burning strikes to their target. Each attack sets the target on fire, dealing additional damage over time.
+  - **Blazing Dash:** The Inferno Blade charges forward in a flash of flame, passing through enemies and slashing them with fiery daggers. This attack allows them to quickly engage or disengage while leaving a trail of fire in their wake.
+  - **Flame Veil:** The Inferno Blade cloaks themselves in a shroud of fire, increasing their speed and reducing their visibility. While under this effect, enemies that attack them in melee take burn damage, and the Inferno Blade's attacks deal increased fire damage.
+  - **Infernal Shiv:** The Inferno Blade throws a dagger imbued with explosive fire magic at their target. Upon impact, the dagger explodes, dealing significant fire damage to the target and nearby enemies.
+  - **Eruption Assault:** The Inferno Blade channels all their fire magic into their daggers, performing a devastating flurry of strikes that culminates in a fiery explosion. This ultimate ability deals massive damage to a single target and ignites the surrounding area with intense flames.
+- **Combat Style:** Inferno Blades are fast, agile, and precise, specializing in hit-and-run tactics and assassination. They excel in dealing high burst damage with their rapid fire-infused dagger strikes. Their abilities allow them to move quickly through the battlefield, striking enemies with fiery precision and leaving them burned and vulnerable.
+- **Regard:** Inferno Blades are seen as dangerous and unpredictable combatants. Their combination of speed, stealth, and fire magic makes them formidable assassins and skirmishers. While their focus on agility and burst damage means they aren't built for prolonged fights, their ability to eliminate key targets swiftly and disappear into the flames makes them highly valued for strategic strikes.
 
 <!-- Fire + Dual Blades = Scorching Duelist -->
 
@@ -658,11 +698,31 @@ Fire + Daggers
 
 Fire + Dual Blades
 
+- **Description:** The Scorching Duelist is a master of Fire and Dual Blades, using their swift and elegant combat style to overwhelm enemies with a flurry of burning strikes. Combining the finesse of dual-wielding with the raw power of flames, Scorching Duelists excel in fast-paced melee combat, igniting their opponents with every slash. They are agile, relentless, and specialize in dealing sustained fire damage while maintaining constant pressure on their foes.
+- **Abilities:**
+  - **Blazing Flurry:** The Scorching Duelist rapidly slashes with their dual blades, each strike igniting the target. The attack speeds up as it continues, causing the final strikes to deal explosive fire damage.
+  - **Inferno Dance:** A fiery spinning attack that allows the Scorching Duelist to strike all nearby enemies with their blades, creating a whirlwind of flames around them. This ability is perfect for taking on groups of foes while staying mobile.
+  - **Ember Dash:** The Duelist dashes forward in a trail of fire, slashing any enemies in their path. This ability allows quick repositioning or closing gaps while inflicting burning wounds on enemies.
+  - **Searing Counter:** The Scorching Duelist deflects an incoming attack, retaliating with a fiery counterstrike. This ability not only deals damage but also briefly increases the Duelist’s speed and ignites the attacker with flames.
+  - **Flame Tempest:** The Scorching Duelist channels their fire magic into their dual blades, unleashing a devastating series of attacks that leave the ground burning in their wake. Each strike causes fiery eruptions, dealing massive damage to all enemies within range.
+- **Combat Style:** Scorching Duelists rely on their speed and precision, dancing around the battlefield while delivering fiery blade strikes. Their combat style focuses on fast, successive attacks that build up fire damage over time, making them particularly effective at sustained melee offense. They are highly mobile, allowing them to strike quickly and retreat if necessary.
+- **Regard:** Scorching Duelists are admired for their grace and control in battle, as they wield fire and dual blades with remarkable precision. They are known for their relentless pursuit of their enemies, wearing them down with constant pressure and flames. In many cultures, they are seen as honorable duelists who combine elegance with destruction, respected for their mastery of both blade and flame.
+
 <!-- Fire + Gauntlets = Inferno Fist -->
 
 ### Inferno Fist
 
 Fire + Gauntlets
+
+- **Description:** The Inferno Fist is a fierce brawler who channels the destructive power of Fire into their Gauntlets, turning their fists into blazing weapons of devastation. These fighters specialize in up-close, brutal combat, using their flame-infused strikes to pummel enemies with relentless fury. Inferno Fists thrive in melee, where each punch not only deals crushing physical damage but also sets their foes ablaze.
+- **Abilities:**
+  - **Blazing Strike:** The Inferno Fist charges their gauntlets with fire and delivers a powerful punch that explodes on impact, dealing fire damage and knocking back enemies.
+  - **Flame Barrage:** A rapid series of fiery punches, each hit igniting the target and dealing cumulative burn damage. The longer the barrage continues, the more intense the flames become.
+  - **Molten Guard:** The Inferno Fist coats their gauntlets in molten fire, reducing incoming damage for a short time while any enemy who strikes them in melee is burned.
+  - **Erupting Uppercut:** A fiery uppercut that launches the target into the air, leaving them vulnerable to follow-up attacks. The punch also creates a small eruption of flame beneath the target, damaging nearby enemies.
+  - **Inferno Slam:** The ultimate ability, where the Inferno Fist slams both gauntlets into the ground, causing a massive eruption of fire and lava around them. This ability deals heavy area-of-effect damage and leaves the ground scorched, continuing to burn enemies that stand in the flames.
+- **Combat Style:** Inferno Fists are close-range brawlers who excel at dealing both physical and fire damage through their powerful punches. Their combat style revolves around relentless aggression, delivering fiery strikes that overwhelm their opponents. They are highly resilient, able to withstand damage while burning everything around them.
+- **Regard:** Inferno Fists are seen as forces of raw power and destruction, admired for their courage and fearlessness in battle. Their fiery gauntlets make them a terrifying presence on the frontlines, and their ability to combine physical might with fire magic makes them formidable foes. Among warriors, they are often regarded as living embodiments of fire’s wrath, using their hands to ignite and crush all that stands in their way.
 
 <!-- Fire + Shortbows = Ember Scout -->
 
@@ -670,11 +730,31 @@ Fire + Gauntlets
 
 Fire + Shortbows
 
+- **Description:** The Ember Scout is a nimble and stealthy archer who harnesses the power of Fire in combination with a Shortbow. Specializing in hit-and-run tactics, Ember Scouts use fiery arrows to ignite enemies from a distance, creating chaos and confusion on the battlefield. Their agility and precision allow them to move quickly through terrain, landing devastating flaming shots before vanishing into the shadows.
+- **Abilities:**
+  - **Ember Shot:** The Ember Scout fires a blazing arrow that sets the target on fire, dealing fire damage over time. Perfect for softening up enemies from afar.
+  - **Flame Volley:** A rapid-fire ability where the Ember Scout shoots a barrage of flaming arrows in quick succession, igniting multiple targets and spreading flames across the battlefield.
+  - **Fire Trap:** The Ember Scout places a small, hidden flame trap that ignites when enemies step on it, dealing area-of-effect fire damage and slowing those caught in the blast.
+  - **Burning Leap:** The Ember Scout makes a quick, fiery leap backward, leaving behind a trail of flames that damages enemies who follow. This ability allows the scout to escape danger while burning pursuers.
+  - **Incendiary Barrage:** The ultimate ability, where the Ember Scout unleashes a rain of flaming arrows over a large area, setting the entire zone ablaze. Enemies caught in the barrage take heavy fire damage and are left burning for an extended period.
+- **Combat Style:** Ember Scouts excel in mobile, ranged combat, using their shortbows to ignite enemies from a distance. Their focus on speed and precision allows them to strike quickly and retreat before enemies can close in. They are experts in setting traps and using terrain to their advantage, making them hard to pin down in a fight.
+- **Regard:** Ember Scouts are seen as cunning and resourceful fighters, using fire not just for raw destruction but as a tactical tool. Their ability to harass and burn enemies from afar makes them invaluable in skirmishes and ambushes. Though not as brute force-oriented as some fire users, they are respected for their tactical prowess and skill in using fire to control the battlefield.
+
 <!-- Fire + Spears = Pyrelance -->
 
 ### Pyrelance
 
 Fire + Spears
+
+- **Description:** The Pyrelance is a warrior who wields Fire magic alongside a spear, transforming the weapon into a blazing instrument of destruction. Specializing in thrusting attacks and long-range strikes, the Pyrelance channels fire through their spear, setting enemies ablaze with every piercing blow. They are both elegant and brutal, using the reach of their weapon to ignite enemies from a distance while maintaining a safe and calculated combat approach.
+- **Abilities:**
+  - **Inferno Thrust:** The Pyrelance lunges forward with a fiery spear, impaling the target and causing an explosion of flame on impact, dealing significant fire damage to both the target and nearby enemies.
+  - **Flame Sweep:** A wide, sweeping strike with the spear that creates a trail of fire in its path, damaging and igniting all enemies caught in the arc.
+  - **Molten Strike:** The Pyrelance heats the tip of their spear to molten levels, allowing it to pierce through armor and barriers with ease. This ability deals extra fire damage to heavily armored enemies.
+  - **Lava Javelin:** The Pyrelance throws their spear, transforming it into a fiery projectile. When the spear lands, it erupts into a pillar of fire, dealing area-of-effect damage to all nearby foes. The spear can be recalled, returning to the Pyrelance’s hand in a burst of flame.
+  - **Eruption of Flames:** The ultimate ability, where the Pyrelance drives their spear into the ground, causing fire to erupt from beneath their enemies. The flames engulf the area, dealing massive damage and leaving the ground scorched, continuing to burn enemies who remain in the zone.
+- **Combat Style:** Pyrelances excel in mid-range combat, using their spears to keep enemies at bay while dealing fire-infused strikes. Their long reach combined with fire magic makes them formidable in both single-target and area-of-effect situations. They can effectively control the battlefield by igniting enemies and using their spear’s versatility to both stab and sweep.
+- **Regard:** Pyrelances are regarded as fierce and disciplined fighters, their mastery of both fire and spear combat making them deadly foes. Their ability to strike from a distance while igniting entire groups of enemies with a single blow is both respected and feared. Many cultures view them as fiery champions of war, combining precision and destruction with elegance.
 
 <!-- Fire + Sword & Shields = Blaze Defender -->
 
@@ -682,11 +762,31 @@ Fire + Spears
 
 Fire + Sword & Shields
 
+- **Description:** The Blaze Defender is a stalwart warrior who combines the resilience of a shield with the destructive power of Fire magic. Wielding a sword in one hand and a shield in the other, they embody both offense and defense, using their fiery abilities to protect allies while incinerating enemies. The Blaze Defender stands on the frontlines, using their shield to block attacks and their sword to strike down foes with searing flames.
+- **Abilities:**
+  - **Flame Strike:** The Blaze Defender slashes with their sword, igniting the blade with fire and delivering a powerful strike that sets enemies ablaze on contact.
+  - **Flaming Bulwark:** The Blaze Defender’s shield is enveloped in flames, absorbing incoming damage and scorching any enemy that strikes it in melee range. This ability increases their defensive capabilities while punishing close-range attackers.
+  - **Blazing Charge:** Charging forward with shield raised, the Blaze Defender plows through enemies, leaving a trail of fire in their wake. Enemies hit by the charge are knocked back and ignited.
+  - **Ember Guard:** The Blaze Defender raises their shield high, creating a protective barrier of fire around themselves and nearby allies. This ability reduces incoming damage while dealing fire damage to enemies who get too close.
+  - **Inferno Wall:** The ultimate ability, where the Blaze Defender slams their shield into the ground, creating a towering wall of flame that blocks enemies and deals continuous fire damage to those who try to pass through. This wall provides both protection and a fiery hazard on the battlefield.
+- **Combat Style:** Blaze Defenders excel in a balanced playstyle, combining fiery offense with rock-solid defense. They are built to withstand heavy damage while using their sword and shield to control the flow of combat, defending allies and punishing enemies with fire-infused strikes. Their ability to block and burn makes them ideal for holding strategic positions.
+- **Regard:** Blaze Defenders are highly respected for their ability to protect their comrades while bringing the heat of battle to their enemies. Viewed as guardians of both flame and fortitude, they are often revered for their bravery and unyielding presence on the battlefield. Many see them as the embodiment of both protection and destruction, standing as blazing bastions of war.
+
 <!-- Fire + Swords = Blazewarden -->
 
 ### Blazewarden
 
 Fire + Swords
+
+- **Description:** The Blazewarden is a fierce and disciplined warrior who wields the power of Fire through their swords. They specialize in powerful, controlled strikes that combine physical prowess with intense flames, using their blades to incinerate foes and dominate the battlefield. Known for their balance of offensive and defensive capabilities, Blazewardens excel in both single combat and group engagements.
+- **Abilities:**
+  - **Inferno Slash:** The Blazewarden performs a powerful sword strike imbued with fire, creating a wave of flames that scorches enemies in its path. This ability deals significant damage and can ignite multiple targets.
+  - **Flame Guard:** The Blazewarden envelops their sword in fire, creating a protective aura around themselves. This aura reduces incoming damage and burns any enemies who come too close.
+  - **Blazing Strike:** A swift, fiery attack that deals heavy damage to a single target and leaves them burning. The Blazewarden's strikes become more intense with each successive hit, increasing fire damage.
+  - **Scorched Earth:** The Blazewarden slams their sword into the ground, causing flames to erupt in a radius around them. This ability creates a dangerous zone of fire that deals continuous damage to enemies within it.
+  - **Infernal Wrath:** The ultimate ability, where the Blazewarden channels their fire magic into a series of devastating sword strikes. Each strike causes fiery explosions that deal massive damage and leave the battlefield scorched, creating a lasting area of fire.
+- **Combat Style:** Blazewardens are versatile melee fighters who combine fiery swordplay with solid defensive tactics. They are adept at dealing high burst damage while also using their flames to provide crowd control and area denial. Their combat style emphasizes powerful, precise strikes and the ability to control the flow of battle with their fire-infused attacks.
+- **Regard:** Blazewardens are admired for their skillful and destructive use of fire through their swords. They are seen as powerful and disciplined combatants, capable of both leading the charge and holding the line. Their combination of fire magic and swordsmanship makes them respected figures on the battlefield, embodying both the fury and control of flame.
 
 <!-- Fire + Tomes = Inferno Scholar -->
 
@@ -694,11 +794,31 @@ Fire + Swords
 
 Fire + Tomes
 
+- **Description:** The Inferno Scholar is a mage who specializes in harnessing the power of Fire through their tomes. Unlike traditional fire mages, Inferno Scholars combine their knowledge of ancient texts with fiery magic to unleash devastating spells and arcane techniques. They use their tomes not just for casting but as a source of powerful fire-based abilities that reflect their deep understanding of the arcane arts.
+- **Abilities:**
+  - **Blazing Tome:** The Inferno Scholar channels fire magic through their tome, casting a spell that creates a concentrated burst of flames, dealing significant damage to enemies in a targeted area.
+  - **Infernal Insight:** By consulting their tome, the Inferno Scholar gains a temporary boost in spellcasting efficiency and fire damage. This ability also allows them to reveal hidden magical traps or weaknesses in enemies.
+  - **Firebound Script:** The Inferno Scholar inscribes fiery runes into the air, creating magical barriers that protect allies and damage any enemy that crosses them. The runes last for a duration, offering both protection and persistent fire damage.
+  - **Ember Conjuration:** The Scholar summons a fiery elemental creature or constructs from their tome to assist in combat. This summoned entity can attack enemies and provide additional support in battle.
+  - **Inferno Manuscript:** The ultimate ability, where the Inferno Scholar opens their tome to release a torrent of fire and magical energy. The spell creates a massive explosion or wave of flames, dealing devastating area-of-effect damage and leaving a lasting fiery field that continues to burn enemies.
+- **Combat Style:** Inferno Scholars are spellcasters who focus on using their tomes to cast powerful fire spells and create magical effects. They combine arcane knowledge with fiery destruction, making them versatile in both offensive and defensive magic. Their combat style emphasizes strategic spellcasting, area control, and leveraging the power of their tomes for devastating fire magic.
+- **Regard:** Inferno Scholars are respected for their intellectual approach to fire magic and their ability to combine deep knowledge with destructive power. They are seen as wise and formidable spellcasters who use their tomes not just as tools of magic but as sources of formidable fire-based abilities. In many cultures, they are revered as learned fire mages who command both respect and awe for their mastery of the arcane arts.
+
 <!-- Fire + Wands = Flameweaver -->
 
 ### Flameweaver
 
 Fire + Wands
+
+- **Description:** The Flameweaver is a master of Fire magic who wields wands to channel and amplify their fiery spells. Specializing in precision and versatility, Flameweavers use their wands to direct streams of flame, conjure fiery constructs, and control the battlefield with their pyromantic prowess. Their combat style revolves around using their wand to unleash a variety of fire-based spells with pinpoint accuracy.
+- **Abilities:**
+  - **Emberbolt:** The Flameweaver fires a concentrated bolt of fire from their wand, dealing direct damage to a single target. This ability can be charged for increased damage and range.
+  - **Inferno Wave:** The Flameweaver sweeps their wand in a wide arc, releasing a wave of flames that engulfs multiple enemies. This ability deals area-of-effect fire damage and can cause lingering burns.
+  - **Fire Wall:** The Flameweaver creates a barrier of intense fire using their wand, blocking enemy movement and damaging any foe who attempts to pass through. The wall persists for a short duration, creating a hazardous zone on the battlefield.
+  - **Flaming Conjuration:** The Flameweaver summons a fiery elemental or construct to fight alongside them. This summoned entity can attack enemies and provide additional magical support.
+  - **Inferno Surge:** The ultimate ability, where the Flameweaver channels the full power of their wand to release a massive burst of fire, creating an explosion that devastates a large area. The explosion deals significant damage and leaves a fiery field that continues to burn enemies over time.
+- **Combat Style:** Flameweavers are agile spellcasters who excel at long-range combat, using their wands to unleash precise and varied fire spells. Their combat style emphasizes control and damage, utilizing their wand to adapt to different combat scenarios and maintain a safe distance from enemies while wreaking havoc with their fire magic.
+- **Regard:** Flameweavers are highly regarded for their ability to manipulate fire with finesse and precision. They are seen as both brilliant and dangerous, using their wands to bring about intense and controlled destruction. Many view them as sophisticated spellcasters who combine the elegance of wand magic with the raw power of fire, commanding both respect and fear for their mastery of pyromancy.
 
 <!-- Ice + Axes = Frostcleaver -->
 
@@ -706,11 +826,31 @@ Fire + Wands
 
 Ice + Axes
 
+- **Description:** The Frostcleaver is a formidable warrior who combines the raw power of axes with the chilling magic of Ice. They wield their axes to deliver powerful, freezing blows that can slow, freeze, and shatter enemies. Specializing in devastating melee attacks and ice-based crowd control, the Frostcleaver excels at combining brute force with the frigid touch of winter.
+- **Abilities:**
+  - **Froststrike:** The Frostcleaver performs a powerful swing with their axe, coating it in ice and delivering a blow that deals significant damage while freezing the target. Enemies hit by this attack are slowed and may become immobilized if struck repeatedly.
+  - **Glacial Cleave:** With a wide, sweeping motion, the Frostcleaver unleashes a wave of ice that extends from their axe. This attack deals area-of-effect damage and encases enemies in a layer of frost, reducing their movement speed and attack speed.
+  - **Icy Guard:** The Frostcleaver uses their axe to create a defensive barrier of ice around themselves. This shield absorbs incoming damage and provides temporary protection while damaging any enemies that come into close contact.
+  - **Frozen Ground:** The Frostcleaver slams their axe into the ground, causing the area around them to freeze and become slippery. Enemies in the affected area are slowed and have reduced mobility, making them easier targets.
+  - **Glacial Rampage:** The ultimate ability, where the Frostcleaver channels their ice magic into a series of rapid, freezing strikes. Each swing of the axe releases a burst of frost that damages and freezes enemies in a wide area. This rampage creates a chilling storm of ice that deals heavy damage and can freeze even the most resilient foes.
+- **Combat Style:** Frostcleavers are powerful melee fighters who blend the raw impact of their axes with the control and crowd control capabilities of ice magic. They excel in close-quarters combat, using their ability to freeze and slow enemies to dominate the battlefield. Their combat style emphasizes strong, freezing attacks and the strategic use of ice to control enemy movements.
+- **Regard:** Frostcleavers are respected and feared for their ability to combine the destructive force of their axes with the harshness of winter. They are seen as imposing figures who bring both the might of their weapon and the chilling power of ice to the fight. Many view them as unstoppable warriors capable of turning the tide of battle with their ice-infused combat skills.
+
 <!-- Ice + Bows = Frostshot Sniper -->
 
 ### Frostshot Sniper
 
 Ice + Bows
+
+- **Description:** The Frostshot Sniper is a skilled archer who combines the precision of archery with the chilling power of Ice. Using specialized frost-infused arrows, they are able to strike from a distance with deadly accuracy, freezing targets and controlling the battlefield from afar. The Frostshot Sniper excels in delivering devastating ranged attacks that not only deal damage but also impose the harsh effects of ice on their enemies.
+- **Abilities:**
+  - **Frost Arrow:** The Frostshot Sniper fires an arrow coated in ice that deals damage upon impact and has a chance to freeze the target. The freezing effect slows the enemy and can immobilize them if they are hit multiple times.
+  - **Glacial Volley:** The Sniper releases a rapid series of frost arrows, creating a barrage of icy projectiles that deal area-of-effect damage and have a chance to freeze enemies caught in the spread.
+  - **Icy Precision:** By focusing their magic through the bow, the Frostshot Sniper increases the accuracy and damage of their next shot, causing it to explode on impact and deal additional frost damage to enemies in the vicinity.
+  - **Frozen Trap:** The Sniper places a frost-infused trap on the ground that triggers when enemies pass over it. The trap releases a burst of ice, dealing damage and freezing any targets caught in its area.
+  - **Glacial Barrage:** The ultimate ability, where the Frostshot Sniper channels their ice magic to fire a powerful volley of frost arrows that create a storm of ice on impact. This storm deals massive damage and leaves a lingering field of frost that slows and damages enemies over time.
+- **Combat Style:** Frostshot Snipers are masters of long-range combat, using their frost-infused arrows to strike from a distance and control the battlefield. They excel in hit-and-run tactics, using their freezing abilities to impair and slow enemies while dealing substantial damage. Their combat style emphasizes precision, crowd control, and maintaining a safe distance from enemies.
+- **Regard:** Frostshot Snipers are highly regarded for their skillful archery and the ability to wield ice magic with deadly accuracy. They are seen as elite marksmen who can turn the tide of battle from afar, using their frost-infused arrows to both harm and control enemies. Many view them as enigmatic and formidable figures, combining the art of archery with the harshness of ice to dominate their foes.
 
 <!-- Ice + Clubs = Glacier Basher -->
 
@@ -718,11 +858,31 @@ Ice + Bows
 
 Ice + Clubs
 
+- **Description:** The Glacier Basher is a formidable warrior who wields a club infused with the power of Ice. They use their ice-enchanted club to deliver crushing blows that not only deal significant damage but also freeze and slow their enemies. Specializing in brute force combined with ice magic, the Glacier Basher excels at close-quarters combat and crowd control, turning the tide of battle with their icy strikes.
+- **Abilities:**
+  - **Frost Smash:** The Glacier Basher delivers a powerful swing with their ice-enchanted club, creating a shockwave of frost that deals damage and has a chance to freeze enemies in the area of effect.
+  - **Glacial Shatter:** By slamming their club into the ground, the Glacier Basher causes an explosion of ice that deals area-of-effect damage and leaves a field of frost that slows and damages enemies over time.
+  - **Icy Crush:** The Glacier Basher channels ice magic into their club, increasing the impact of their next strike. This attack deals heavy damage and has a chance to encase the target in a layer of ice, reducing their mobility.
+  - **Frozen Stomp:** The Glacier Basher performs a ground-shaking stomp that creates a burst of frost, causing nearby enemies to be frozen and immobilized for a short duration. This ability also creates a hazardous zone of ice on the ground.
+  - **Glacial Rampage:** The ultimate ability, where the Glacier Basher unleashes a series of powerful, frost-infused club strikes. Each swing creates a wave of ice that damages and freezes enemies, culminating in a massive ice explosion that deals devastating damage and leaves a frozen battlefield.
+- **Combat Style:** Glacier Bashers are close-combat specialists who combine the raw power of their clubs with the chilling effects of ice magic. They excel in dealing high damage and controlling the battlefield with their freezing attacks. Their combat style emphasizes powerful melee strikes and crowd control, using their ice magic to impede and damage enemies in close quarters.
+- **Regard:** Glacier Bashers are respected for their ability to combine physical strength with the harshness of ice. They are seen as formidable fighters who can dominate in melee combat and control the battlefield with their freezing abilities. Their combination of brute force and ice magic makes them both awe-inspiring and feared, as they can turn the tide of battle with their devastating, icy attacks.
+
 <!-- Ice + Daggers = Frostfang -->
 
 ### Frostfang
 
 Ice + Daggers
+
+- **Description:** The Frostfang is a cunning and agile assassin who wields ice-enchanted daggers to deliver precise, frost-infused strikes. Specializing in stealth and speed, Frostfangs use their daggers to freeze and incapacitate enemies, striking from the shadows with deadly efficiency. They excel at hit-and-run tactics, combining their agility with the chilling effects of ice to control and eliminate their targets.
+- **Abilities:**
+  - **Frostbite Strike:** The Frostfang delivers a swift, ice-coated stab with their dagger, dealing damage and inflicting a freezing effect that slows the enemy. Multiple strikes increase the chance of full immobilization.
+  - **Icy Ambush:** The Frostfang uses their daggers to perform a surprise attack from stealth, dealing critical damage and leaving a burst of frost that slows and damages nearby enemies.
+  - **Glacial Veil:** By channeling their ice magic through their daggers, the Frostfang creates a temporary cloak of frost that renders them partially invisible and reduces incoming damage. This ability also grants a short duration of enhanced evasion.
+  - **Frozen Laceration:** The Frostfang slashes with their daggers, causing a series of ice shards to burst from the wounds and damage enemies around them. The shards also slow and potentially freeze those caught in the area of effect.
+  - **Froststorm Flurry:** The ultimate ability, where the Frostfang unleashes a rapid series of frost-infused dagger strikes. Each attack releases a wave of ice, creating a storm of freezing energy that damages and slows enemies in a wide area. The final strike delivers a powerful, freezing blow that can immobilize multiple foes.
+- **Combat Style:** Frostfangs are stealthy and agile assassins who utilize their ice-enchanted daggers for quick, lethal strikes. They excel in hit-and-run tactics, using their freezing abilities to incapacitate and control enemies. Their combat style emphasizes speed, precision, and the effective use of ice magic to enhance their assassination skills and escape unharmed.
+- **Regard:** Frostfangs are both feared and admired for their deadly combination of agility and ice magic. They are seen as elusive and efficient assassins who use their frost-enchanted daggers to outmaneuver and freeze their enemies. Their expertise in stealth and ice magic makes them respected as masterful killers capable of executing swift, chilling strikes that leave their enemies frozen in terror.
 
 <!-- Ice + Dual Blades = Glacial Duelist -->
 
@@ -730,17 +890,47 @@ Ice + Daggers
 
 Ice + Dual Blades
 
+- **Description:** The Glacial Duelist is a swift and deadly combatant who wields a pair of ice-enchanted dual blades. They specialize in rapid, fluid combat, using their dual blades to deliver a series of freezing, precise strikes. The Glacial Duelist excels in close-quarters engagements, combining speed with the chilling effects of ice to overwhelm and control multiple enemies.
+- **Abilities:**
+  - **Frost Slash:** The Glacial Duelist performs a fast, ice-infused strike with both blades, dealing damage and applying a freezing effect to their target. This ability can chain into multiple slashes, each inflicting additional frost damage.
+  - **Glacial Dance:** The Duelist unleashes a series of rapid, swirling attacks with their dual blades, creating a storm of frost that damages and slows enemies in a wide area around them. This ability is effective for crowd control and area-of-effect damage.
+  - **Ice Veil:** The Glacial Duelist channels ice magic through their blades to create a protective barrier of frost around themselves. This shield absorbs incoming damage and reduces the attack speed of enemies who come into close contact.
+  - **Frozen Edge:** The Duelist imbues their blades with intense frost, increasing the damage and freezing chance of their next few attacks. Each hit with the Frozen Edge has a higher chance to immobilize the target.
+  - **Glacial Tempest:** The ultimate ability, where the Glacial Duelist performs a series of powerful, synchronized strikes with both blades, creating a whirlwind of ice and frost. This tempest deals massive damage and creates an area of freezing cold that slows and damages enemies caught within it.
+- **Combat Style:** Glacial Duelists are highly agile fighters who use their dual blades to execute rapid, devastating attacks. Their combat style emphasizes speed, precision, and the effective use of ice magic to control and incapacitate multiple foes. They excel in dealing with both single and multiple targets, using their abilities to freeze and dominate their opponents.
+- **Regard:** Glacial Duelists are respected for their exceptional skill in wielding dual blades and their ability to combine swift, precise strikes with the power of ice magic. They are seen as formidable and elegant combatants who can turn the battlefield into a frozen tempest with their rapid, chilling attacks. Their expertise in both melee combat and ice magic makes them both admired and feared by allies and enemies alike.
+
 <!-- Ice + Gauntlets = Frostknuckle -->
 
 ### Frostknuckle
 
 Ice + Gauntlets
 
+- **Description:** The Frostknuckle is a formidable fighter who specializes in hand-to-hand combat using ice-enchanted gauntlets. They deliver powerful, frost-infused punches and strikes that not only deal significant damage but also freeze and control their enemies. The Frostknuckle excels in close-quarters brawls, using their gauntlets to combine brute strength with the chilling effects of ice.
+- **Abilities:**
+  - **Frost Fist:** The Frostknuckle performs a powerful punch with their gauntlets, creating an icy shockwave that deals damage and has a chance to freeze the target. This ability can be used to stagger enemies and disrupt their attacks.
+  - **Glacial Uppercut:** By channeling ice magic through their gauntlets, the Frostknuckle delivers a devastating uppercut that launches enemies into the air. The uppercut creates a burst of frost that deals damage and slows enemies caught in the area.
+  - **Icy Guard:** The Frostknuckle uses their gauntlets to create a protective barrier of ice around themselves. This shield absorbs incoming damage and can deal frost damage to enemies who come into close contact.
+  - **Frozen Strike:** The Frostknuckle channels frost magic into their gauntlets to enhance their punches. Each strike deals additional frost damage and has a higher chance to freeze the target, making them more vulnerable to follow-up attacks.
+  - **Glacial Fury:** The ultimate ability, where the Frostknuckle unleashes a rapid flurry of ice-infused punches. Each punch creates a burst of frost that damages and slows enemies in the vicinity, culminating in a powerful final strike that freezes and immobilizes all foes within range.
+- **Combat Style:** Frostknuckles are powerful melee combatants who use their ice-enchanted gauntlets to deliver devastating, close-range attacks. Their combat style emphasizes raw strength and the effective use of ice magic to freeze and control enemies. They excel in brawling scenarios, using their abilities to deal high damage and manipulate the battlefield with their chilling strikes.
+- **Regard:** Frostknuckles are revered for their ability to combine physical prowess with the harsh effects of ice. They are seen as unstoppable fighters who can dominate in hand-to-hand combat, using their frost-enchanted gauntlets to freeze and cripple their enemies. Their blend of strength and ice magic makes them both formidable and awe-inspiring, commanding respect from allies and fear from foes.
+
 <!-- Ice + Shortbows = Frostshot Archer -->
 
 ### Frostshot Archer
 
 Ice + Shortbows
+
+- **Description:** The Frostshot Archer is a skilled marksman who wields a shortbow enhanced with ice magic. They specialize in long-range combat, using their frost-infused arrows to strike from a distance while applying the chilling effects of ice to their targets. The Frostshot Archer excels in precision and crowd control, turning the battlefield into a frozen field of hazards.
+- **Abilities:**
+  - **Frost Arrow:** The Frostshot Archer fires an ice-enchanted arrow that deals damage and has a chance to freeze the target upon impact. The freezing effect slows the enemy and can immobilize them if hit multiple times.
+  - **Glacial Volley:** The Archer releases a rapid series of frost arrows, creating a storm of ice that deals area-of-effect damage and has a chance to freeze enemies in the affected area.
+  - **Icy Precision:** By channeling ice magic through their shortbow, the Frostshot Archer enhances the accuracy and damage of their next shot. This ability also adds a frost effect that can slow and damage enemies hit by the arrow.
+  - **Frozen Trap:** The Archer sets a frost-infused trap on the ground that triggers when enemies come near. The trap releases a burst of ice, dealing damage and slowing or freezing targets caught in its area.
+  - **Glacial Barrage:** The ultimate ability, where the Frostshot Archer fires a concentrated barrage of frost arrows that create a blizzard on impact. This blizzard deals massive damage, freezes enemies caught within it, and leaves a lingering area of frost that continues to slow and damage foes.
+- **Combat Style:** Frostshot Archers are masters of long-range combat who use their ice-enchanted shortbows to control the battlefield from a distance. Their combat style focuses on precision, crowd control, and applying frost effects to disrupt and incapacitate enemies. They excel in striking from afar and using their abilities to create hazardous zones and slow down opponents.
+  Regard: Frostshot Archers are respected for their skillful marksmanship and the ability to wield ice magic with their shortbows. They are seen as elite snipers who can turn the tide of battle by freezing and damaging enemies from a distance. Their expertise in ranged combat and crowd control makes them both feared and admired, as they bring the power of ice to their precise and strategic attacks.
 
 <!-- Ice + Spears = Frostspike -->
 
@@ -1606,9 +1796,9 @@ Nature + Longbows
 
 Nature + Maces
 
-<!-- Nature + Orbs = Nature’s Oracle -->
+<!-- Nature + Orbs = Nature's Oracle -->
 
-### Nature’s Oracle
+### Nature's Oracle
 
 Nature + Orbs
 

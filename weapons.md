@@ -52,6 +52,7 @@ These would take an extra amount of effort to discover and unlock.
 - Trident
 - Whip
 - Yoyo
+- Whistle (tamer)
 
 <!--
 ## Possible:

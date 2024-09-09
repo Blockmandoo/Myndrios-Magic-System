@@ -1,4 +1,4 @@
-# Myndrios Magic System
+# Myndrios Magic System - Elementa
 
 This is a very rudimentary look into a magic system that intrigues me, most of the ideas are not complete, I just wanted somewhere that I can see all of it together.
 
@@ -38,3 +38,16 @@ Examples of Weapons and their Elemental [Combinations](classes.md):
 - **Water + Staff = Tideweaver:** Controls water for healing, support, and environmental manipulation.
 
 This system allows for a diverse range of abilities and strategies, combining elements with weapons to create unique combat styles and magical effects. Characters can specialize in various combinations, making for a rich and flexible gameplay experience.
+
+---
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg

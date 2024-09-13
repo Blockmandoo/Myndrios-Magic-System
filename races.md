@@ -2,6 +2,15 @@
 
 All available races, you'll start out with the base races, and then have the ability to unlock more interesting races, with the advanced ones being super difficult to find / unlock
 
+Possible alternative names:
+
+- Kin / Kinship
+- Clade
+- People
+- Faction
+- Tribe
+- Kindred
+
 ## Base:
 
 - [Dwarves](#Dwarves)

@@ -18,17 +18,30 @@ All the magical elements available, with some being available to the base races,
 
 These would be elements that you naturally discover by mastering multiple elements
 
+|        | Air       | Earth      | Fire      | Ice        | Light    | Nature   | Primal   | Shadow    | Water    |
+| ------ | --------- | ---------- | --------- | ---------- | -------- | -------- | -------- | --------- | -------- |
+| Air    | -         | Sand       | Lightning | Snow       |          |          | Agility  | Twilight  | Mist     |
+| Earth  | Sand      | -          | Magma     | Froststone | Crystal  |          | Strength |           | Mud      |
+| Fire   | Lightning | Magma      | -         | Frostfire  | Holyfire |          | Ferocity |           | Steam    |
+| Ice    | Snow      | Froststone | Frostfire | -          | Crystal  |          | Calm     | Voidstone |          |
+| Light  |           | Crystal    | Holyfire  | Crystal    | -        |          | Cheery   |           |          |
+| Nature |           |            |           |            |          | -        | Vitality |           |          |
+| Primal | Agility   | Strength   | Ferocity  | Calm       | Cheery   | Vitality | -        | Cunning   | Flexible |
+| Shadow | Twilight  |            |           | Voidstone  |          |          | Cunning  | -         |          |
+| Water  | Mist      | Mud        | Steam     |            |          |          | Flexible |           | -        |
+
+<!--
 - Air + Earth = Sand
 - Air + Fire = Lightning
 - Air + Ice = Snow
-  <!-- - Air + Light = -->
-  <!-- - Air + Nature = -->
+- Air + Light =
+- Air + Nature =
 - Air + Primal = Agility
 - Air + Shadow = Twilight
 - Air + Water = Mist
 - Earth + Fire = Magma
 - Earth + Ice = Froststone
-- Earth + Light =
+- Earth + Light = Crystal
 - Earth + Nature =
 - Earth + Primal = Strength
 - Earth + Shadow =
@@ -54,6 +67,7 @@ These would be elements that you naturally discover by mastering multiple elemen
 - Primal + Shadow = Cunning
 - Primal + Water = Flexible
 - Shadow + Water =
+-->
 
 ## Unlockable:
 
@@ -76,6 +90,7 @@ These would take an extra amount of effort to discover and unlock.
 
 - Bestial
 - Chaos
+- Blood
 - Clockwork
 - Enchantment
 - Geomancy
@@ -105,15 +120,11 @@ This system ensures that while elements have clear interactions, healers will al
 <!--
 ## Possible:
 
-- Air
 - Alchemy
 - Artifice
-- Bestial
-- Blood
 - Chaos
 - Charm
 - Divination
-- Earth
 - Elemental
 - Enchantment
 - Fighting
@@ -121,7 +132,6 @@ This system ensures that while elements have clear interactions, healers will al
 - Healing
 - Illusion
 - Luck
-- Nature
 - Necromancy
 - Regeneration
 - Runic
@@ -296,27 +306,25 @@ This system ensures that while elements have clear interactions, healers will al
   - 0.5x Fire
   - 0.5x Ice
   - 0.5x Shadow
-  - 1.5x Light
 - **Damage from:**
-  - 1.5x Primal
   - 1.5x Fire
   - 1.5x Ice
   - 0.5x Light
+  - 1.5x Primal
   - 1.5x Shadow
-  - 1.5x Light
+  - 0.5x Water
 - **Healing to:**
   - 1.5x Air
   - 1.5x Earth
   - 1.5x Fire
   - 1.5x Primal
-  - 0.5x Light
 - **Healing from:**
   - 1.5x Earth
   - 0.5x Fire
   - 0.5x Ice
   - 1.5x Light
   - 1.5x Water
-  - 0.5x Light
+  - 0.5x Shadow
 
 ## Primal
 
@@ -376,6 +384,7 @@ This system ensures that while elements have clear interactions, healers will al
 - **Healing to:**
   - 0.5x Earth
   - 0.5x Fire
+  - 0.5x Nature
   - 0.5x Primal
   - 0.5x Water
 - **Healing from:**
@@ -472,3 +481,23 @@ This system ensures that while elements have clear interactions, healers will al
   - **Eruption:** Summons a localized eruption that causes magma to burst from the ground, dealing massive area-of-effect damage and leaving behind a pool of lava that continues to burn over time.
   - **Molten Wave:** Sends a rolling wave of molten rock across the battlefield, engulfing enemies in a stream of intense heat and reshaping the terrain in its path.
 - **General Regard:** Magma is seen as a powerful and awe-inspiring element, representing both creation and destruction. It is respected for its ability to reshape the land and unleash overwhelming force. Those who wield Magma are often viewed with a mix of admiration and fear, capable of harnessing the raw, primal energy of the earth's core. They are seen as formidable forces, able to bring about both devastating destruction and transformative change.
+
+## Froststone
+
+- **Description:** Froststone represents the fusion of solid, unyielding earth with the freezing power of ice. It embodies a formidable combination of cold and solidity, creating an element that is both defensive and destructive. Froststone can manipulate the terrain, solidify water, and create barriers of ice and stone, offering both protection and offense through its chilling and unbreakable force.
+- **Abilities:**
+  - **Frostbound Wall:** Erects a solid wall of ice and stone that provides high defense and can absorb or deflect attacks, while also slowing or freezing enemies that come into contact with it.
+  - **Glacial Shard:** Launches sharp, ice-infused projectiles from the earth that deal piercing damage and can freeze enemies on impact.
+  - **Icy Quake:** Causes the ground to tremble and crack as ice spreads through the earth, creating fissures and dealing area-of-effect damage while slowing enemies caught in the quake.
+  - **Froststone Armor:** Envelops the user or an ally in a protective layer of ice and rock, enhancing defense and reducing damage taken while chilling and damaging nearby enemies.
+- **Regard:** Froststone is viewed as a powerful and immovable force. It combines the unyielding strength of earth with the penetrating cold of ice, making it both a protective and a destructive element. Those who wield Froststone are respected for their ability to control and fortify their environment, using their powers to create unbreakable defenses and freeze their foes. They are often seen as stalwart defenders and relentless adversaries, capable of withstanding and dealing significant damage.
+
+## Crystal
+
+- **Description:** Crystal represents the fusion of earth's stability with the clarity and brilliance of light. It embodies resilience, purity, and inner strength, forming radiant, crystalline structures that can refract light and fortify defenses. Crystal is both reflective and enduring, capable of creating dazzling light displays while providing unyielding protection and sharp offensive strikes.
+- **Abilities:**
+  - **Radiant Prism:** Creates a structure of crystal that refracts light into powerful beams, dealing damage to enemies and illuminating dark areas.
+  - **Crystal Aegis:** Encases the user or an ally in a protective shell of glowing crystal, enhancing defense and reflecting some damage back at attackers.
+  - **Luminous Spike:** Summons crystalline shards from the ground, which pierce enemies with radiant energy, dealing both physical and light-based damage.
+  - **Shatterburst:** Causes a crystal formation to explode, sending sharp shards outward and blinding enemies with a brilliant flash of light.
+- **Regard:** Crystal is viewed as an element of beauty, strength, and clarity. It is admired for its brilliance and its ability to protect and purify. Those who wield Crystal are often seen as defenders of light and truth, using their power to create strongholds of light that can repel darkness and fortify their allies. They are respected for their balance of offense and defense, able to manipulate light through the lens of earth’s solidity.

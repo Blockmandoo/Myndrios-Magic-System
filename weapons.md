@@ -84,6 +84,7 @@ These would take an extra amount of effort to discover and unlock.
 - War Picks
 - War Pipes (bagpipes)
 - Warhammers
+- Mirrors
 -->
 
 ## Axes

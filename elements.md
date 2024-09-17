@@ -1,18 +1,18 @@
 # Magical Elements
 
-All the magical elements available, with some being available to the base races, and others needing to be discovered.
+All the magical elements available, with some being available to the base races, and others needing to be discovered. These elements will [level](levels.md) up as you use them.
 
 ## Base:
 
-- [Air](#Air)
-- [Earth](#Earth)
-- [Fire](#Fire)
-- [Ice](#Ice)
-- [Light](#Light)
-- [Nature](#Nature)
-- [Primal](#Primal)
-- [Shadow](#Shadow)
-- [Water](#Water)
+- [Air](#air)
+- [Earth](#earth)
+- [Fire](#fire)
+- [Ice](#ice)
+- [Light](#light)
+- [Nature](#nature)
+- [Primal](#primal)
+- [Shadow](#shadow)
+- [Water](#water)
 
 ## Mixing Elements
 

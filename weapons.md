@@ -1,40 +1,40 @@
 # Weapons
 
-All the weapons available, with some being available to the base races, and others needing to be discovered.
+All the weapons available, with some being available to the base races, and others needing to be discovered. These weapons will [level](levels.md) up as you use them.
 
 ## Base:
 
-- [Axes](#Axes)
-- [Clubs](#Clubs)
-- [Daggers](#Daggers)
-- [Dual Blades](#Dual-Blades)
-- [Gauntlets](#Gauntlets)
-- [Shortbows](#Shortbows)
-- [Spears](#Spears)
-- [Sword & Shields](#Sword-&-Shields)
-- [Swords](#Swords)
-- [Tomes](#Tomes)
-- [Wands](#Wands)
+- [Axes](#axes)
+- [Clubs](#clubs)
+- [Daggers](#daggers)
+- [Dual Blades](#dual-blades)
+- [Gauntlets](#gauntlets)
+- [Shortbows](#shortbows)
+- [Spears](#spears)
+- [Sword & Shields](#sword--shields)
+- [Swords](#swords)
+- [Tomes](#tomes)
+- [Wands](#wands)
 
 ## Unlockable:
 
 These would not be available to any of the base races immediately, but could be learned without much difficulty.
 
-- [Bows](#Bows)
-- [Crossbows](#Crossbows)
-- [Bulwarks](#Bulwarks)
-- [Gauntlet Claws](#Gauntlet-Claws)
-- [Greataxes](#Greataxes)
-- [Greatswords](#Greatswords)
-- [Halberds](#Halberds)
-- [Hammers](#Hammers)
-- [Longbows](#Longbows)
-- [Maces](#Maces)
-- [Orbs](#Orbs)
-- [Slings](#Slings)
-- [Staves](#Staves)
-- [War Drums](#War-Drums)
-- [Warhammers](#Warhammers)
+- [Bows](#bows)
+- [Crossbows](#crossbows)
+- [Bulwarks](#bulwarks)
+- [Gauntlet Claws](#gauntlet-claws)
+- [Greataxes](#greataxes)
+- [Greatswords](#greatswords)
+- [Halberds](#halberds)
+- [Hammers](#hammers)
+- [Longbows](#longbows)
+- [Maces](#maces)
+- [Orbs](#orbs)
+- [Slings](#slings)
+- [Staves](#staves)
+- [War Drums](#war-drums)
+- [Warhammers](#warhammers)
 
 ## Advanced:
 
@@ -53,6 +53,7 @@ These would take an extra amount of effort to discover and unlock.
 - Whip
 - Yoyo
 - Whistle (tamer)
+- Feralclaws (druid)
 
 <!--
 ## Possible:

@@ -1,8 +1,8 @@
 # Races
 
-All available races, you'll start out with the base races, and then have the ability to unlock more interesting races, with the advanced ones being super difficult to find / unlock
+All available races, you'll start out with the base races, and then have the ability to unlock more interesting races, with the advanced ones being super difficult to find / unlock. I would also like the first barrier to entry for most of the difficult races to be learning their [language](languages.md).
 
-Possible alternative names:
+Possible alternative names for race:
 
 - Kin / Kinship
 - Clade
@@ -13,44 +13,49 @@ Possible alternative names:
 
 ## Base:
 
-- [Dwarves](#Dwarves)
-  - [Mountain Dwarves](#Mountain-Dwarves)
-  - [Hill Dwarves](#Hill-Dwarves)
-  - [Dark Dwarves](#Dark-Dwarves)
-  - [Frost Dwarves](#Frost-Dwarves)
-- [Elves](#Elves)
-  - [High Elves](#High-Elves)
-  - [Wood Elves](#Wood-Elves)
-  - [Dark Elves](#Dark-Elves)
-- [Humans](#Humans)
-  - [City-Dwellers](#City-Dwellers)
-  - [Nomads](#Nomads)
-  - [Highlanders](#Highlanders)
-  - [Desert Dwellers](#Desert-Dwellers)
-- [Orcs](#Orcs)
-- [Gnomes](#Gnomes)
-  - [Tinker Gnomes](#Tinker-Gnomes)
-  - [Forest Gnomes](#Forest-Gnomes)
-  - [Rock Gnomes](#Rock-Gnomes)
-- [Halflings](#Halflings)
-- [Trolls](#Trolls)
-  - [Forest Trolls](#Forest-Trolls)
-  - [Frost Trolls](#Frost-Trolls)
+These are races that I think would fit in fairly well and should be a part of the beginner experience.
+
+- [Dwarves](#dwarves)
+  - [Mountain Dwarves](#mountain-dwarves)
+  - [Hill Dwarves](#hill-dwarves)
+  - [Dark Dwarves](#dark-dwarves)
+  - [Frost Dwarves](#frost-dwarves)
+- [Elves](#elves)
+  - [High Elves](#high-elves)
+  - [Wood Elves](#wood-elves)
+  - [Dark Elves](#dark-elves)
+- [Humans](#humans)
+  - [City-Dwellers](#city-dwellers)
+  - [Nomads](#nomads)
+  - [Highlanders](#highlanders)
+  - [Desert Dwellers](#desert-dwellers)
+- [Orcs](#orcs)
+- [Gnomes](#gnomes)
+  - [Tinker Gnomes](#tinker-gnomes)
+  - [Forest Gnomes](#forest-gnomes)
+  - [Rock Gnomes](#rock-gnomes)
+- [Goblins](#goblins)
+- [Halflings](#halflings)
+- [Trolls](#trolls)
+  - [Forest Trolls](#forest-trolls)
+  - [Frost Trolls](#frost-trolls)
 
 ## Unlockable:
 
-- [Avians](#Avians)
-- [Catfolk](#Catfolk)
-- [Chimerakin](#Chimerakin)
-- [Faekin](#Faekin)
-- [Foxfolk](#Foxfolk)
-- [Golems](#Golems)
-- [Kobolds](#Kobolds)
-- [Minotaurs](#Minotaurs)
-- [Naga](#Naga)
-- [Rabbitfolk](#Rabbitfolk)
-- [Treants](#Treants)
-- [Wolfkin](#Wolfkin)
+These are race concepts that could fit fairly well, but should be introduced later in the gameplay.
+
+- [Avians](#avians)
+- [Catfolk](#catfolk)
+- [Chimerakin](#chimerakin)
+- [Faekin](#faekin)
+- [Foxfolk](#foxfolk)
+- [Golems](#golems)
+- [Kobolds](#kobolds)
+- [Minotaurs](#minotaurs)
+- [Naga](#naga)
+- [Rabbitfolk](#rabbitfolk)
+- [Treants](#treants)
+- [Wolfkin](#wolfkin)
 
 ## Advanced:
 
@@ -61,6 +66,7 @@ Possible alternative names:
 - Demons
 - Draconians
 - Genasi (Humanoid Elemental)
+- Glintoads
 - Shapeshifters
 - Sylvarians (Humanoid Plant)
 - Void Beings
@@ -112,6 +118,34 @@ Possible alternative names:
     - Hammers
     - Maces
     - Warhammers
+
+Basic Elemental and Weapon affinities:
+
+|                 | Earth                | Primal        |
+| --------------- | -------------------- | ------------- |
+| Axes            | Quake Warden         | Berserker     |
+| Clubs           | Terra Warden         | Groundbreaker |
+| Gauntlets       | Stonebreaker         | Brawler       |
+| Spears          | Stonepiercer         | Lancer        |
+| Sword & Shields | Earthwarden Sentinel | Warden        |
+| Swords          | Earthsplitter        | Blademaster   |
+
+Easily Learned Elemental and Weapon affinities:
+
+|                 | Earth           | Primal           | Fire               | Ice                   | Light                | Shadow |
+| --------------- | --------------- | ---------------- | ------------------ | --------------------- | -------------------- | ------ |
+| Axes            | -               | -                | Inferno Berserker  | Frostcleaver          | Radiant Cleaver      |
+| Clubs           | -               | -                | Flamebreaker       | Glacier Basher        | Lightbringer         |
+| Gauntlets       | -               | -                | Inferno Fist       | Frostknuckle          | Illuminated Brawler  |
+| Spears          | -               | -                | Pyrelance          | Frostspike            | Sunlancer            |
+| Sword & Shields | -               | -                | Blaze Defender     | Frostguard            | Shield of Dawn       |
+| Swords          | -               | -                | Blazewarden        | Frostedge             | Dawnblade            |
+| Bulwarks        | Earthguard      | Bulwark Sentinel | Ember Sentinel     | Glacial Warder        | Radiant Sentinel     |
+| Greataxes       | Terra Berserker | Mauler           | Flame Cleaver      | Glacial Mauler        | Blazing Axeman       |
+| Greatswords     | Earthsplitter   | Sword Saint      | Inferno Greatblade | Frostbrand Greatsword | Sunstrike Greatsword |
+| Hammers         | Geoforge        | Titan            | Blazecrusher       | Glacial Smash         | Dawnbringer          |
+| Maces           | Terra Mauler    | Crusher          | Flame Macebearer   | Frostmace             | Radiant Smash        |
+| Warhammers      | Terraforge      | Warbreaker       | Inferno Warhammer  | Glacial Warhammer     | Celestial Warhammer  |
 
 <!--
 - Possible Elements:
@@ -628,6 +662,17 @@ Possible alternative names:
 - **Culture:** Industrious and meticulous, with a culture centered around craftsmanship and mining.
 -->
 
+## Goblins
+
+- **Description:** Goblins are small, nimble creatures known for their cunning intelligence, resourcefulness, and often mischievous nature. Standing around 3 to 4 feet tall, they have sharp features, pointed ears, and green or grayish skin that blends well with their environments. While they lack physical strength compared to other races, goblins more than make up for it with their agility, quick thinking, and ingenuity. Goblins are often seen as scavengers and tinkerers, thriving in environments others might find inhospitable. Whether in dense forests, desolate wastelands, or chaotic cities, goblins adapt quickly and make use of whatever resources they can find.
+- **Abilities:**
+  - **Junkmaster’s Cunning:** Goblins can quickly assemble or modify weapons and devices using scrap or discarded materials. They can create makeshift traps, explosives, and gadgets in the heat of battle.
+  - **Quick Escape:** With their nimbleness and small size, goblins excel at evading danger. They can use their agility to slip through tight spaces, dodge attacks, or flee rapidly.
+  - **Scavenger’s Instinct:** Goblins can identify valuable resources, hidden paths, or opportunities that others might overlook. This ability also helps them repair or enhance objects with minimal materials.
+  - **Tinker’s Talent:** Many goblins are innate inventors, capable of crafting mechanical contraptions or enhancing weapons with unique modifications.
+- **Culture:** Goblins live in close-knit, chaotic communities that value survival, innovation, and cunning over traditional ideas of honor or glory. Their societies are often based around scavenging, trading, and inventing. Goblin clans may vary widely in culture depending on their environment. Some live in sprawling urban slums, while others inhabit wilderness camps or desert outposts. Goblins are not known for being organized or structured; instead, their society is fluid and opportunistic, where those with the most useful skills rise to prominence. Goblins revere inventors, tinkerers, and those who can turn even the most humble scraps into tools of power. They often have a frenetic approach to both life and combat, employing unconventional tactics and clever tricks to outwit their enemies. While they have a reputation for being untrustworthy, goblins are also deeply loyal to their kin and quick to protect their territory.
+- **Regard:** Goblins are often viewed with suspicion or disdain by other races due to their tricky, chaotic nature and their willingness to use underhanded tactics. However, they are also grudgingly respected for their ingenuity and ability to survive in the harshest conditions. Those who can see past the goblins’ opportunistic tendencies often recognize their potential as skilled crafters, inventors, and resourceful allies. In some cultures, goblins are seen as necessary evildoers or helpful rogues—able to get things done when no one else can. Others may see them as pests or nuisances, due to their penchant for scavenging and trickery. Despite this, goblins have an unshakable sense of pride in their resourcefulness and believe that their ability to thrive on scraps is a mark of superiority.
+
 ## Halflings
 
 - **Description:** Halflings are a small, nimble, and sociable race known for their agility, practicality, and love of comfort and community. They have a compact build, often with a cheerful demeanor and a deep appreciation for simple pleasures, such as good food and a peaceful life. Halflings are typically found in rural communities, living in harmony with their surroundings and leading a lifestyle focused on family, farming, and trade.
@@ -863,3 +908,184 @@ Possible alternative names:
 - **Appearance:** Strong and muscular, with wolf-like features such as fur, snouts, and claws. They are known for their loyalty and pack mentality.
 - **Abilities:** Proficient in elemental magic related to earth and ice, reflecting their connection to the natural world. They may also have enhanced senses and physical prowess.
 - **Culture:** Wolfkin live in tight-knit communities or tribes, often in mountainous or northern regions. Their society places a high value on family and communal strength, with a focus on hunting and protection.
+
+## Glintoads
+
+- **Summary:** The Glintoads are a unique, bio-luminescent frog race that dwell in the shadowy depths beneath a floating island. Though often mistaken for toads due to their appearance, they are agile, frog-like beings with glowing bodies that illuminate the dark. Non-humanoid and lacking a common tongue, they communicate through a series of croaks, pulses of light, and subtle body language. Initially overlooked by other races, the Glintoads reveal their sentience only to those who take the time to understand their behaviors and cultural nuances.
+- **Abilities:**
+  - **Bioluminescence:** Their most striking feature, Glintoads emit soft, glowing light in different patterns and intensities. This luminescence can be used for communication, signaling, and even stunning or distracting predators or threats.
+  - **Adaptive Camouflage:** When threatened, they can dim their glow and blend into their surroundings, becoming almost invisible in the dark.
+  - **Aquatic Mastery:** Highly adept at swimming, they can traverse deep waters, both on the surface and in underwater caverns. Their agility in water far surpasses most other races.
+  - **Poison Secretion:** Some Glintoads can secrete a mild toxin that is non-lethal but disorienting to those who come into contact with them.
+  - **Sound Manipulation:** Their croaks are not only a form of communication but can also create vibrations that disrupt the environment, potentially triggering avalanches or causing distractions.
+- **Culture:** The Glintoads live in highly communal, matriarchal societies, where wisdom and age are revered. Their glowing bodies form the basis of their spiritual beliefs, symbolizing the light of knowledge in the depths of the unknown. Glintoads gather in glowing clusters, often around sacred bioluminescent pools, where they meditate and reflect on the mysteries of their world. Their language consists of croaks of varying pitches, lengths, and rhythms, often synchronized with the pulsing of their glowing bodies. Cultural festivals include elaborate light shows performed by elder Glintoads, displaying complex stories through synchronized glowing patterns. The Glintoads are deeply connected to the natural world, respecting the delicate balance of life. They are resourceful and primarily subsist on the flora and fauna found in their dark ecosystem, developing sophisticated farming techniques that involve manipulating light and darkness.
+- **Regard by Other Races:** Initially, the Glintoads are largely misunderstood or ignored by other races due to their simple, animalistic appearance. Many believe them to be nothing more than glowing wildlife or creatures of little consequence. Only after extended interaction do other races begin to realize the depth of their intelligence and culture. Once recognized, Glintoads are often regarded with a mixture of awe and curiosity, particularly for their bioluminescence and unique way of life. Some races, especially those that dwell above the floating island, see them as mysterious guides to the hidden depths, while others may fear or seek to exploit their abilities. Those who earn the trust of the Glintoads are granted access to their wisdom and the secrets of the deep.
+
+## Mycelians
+
+(Fungal Beings)
+
+- **Summary:** The Mycelians are a race of humanoid fungi, connected by an underground network of mycelium that allows them to share knowledge, emotions, and even life force. Each Mycelian is a node in this vast, planet-spanning network, making them one of the most ancient and wisest races in existence.
+- **Abilities:**
+  - **Mycelium Network:** They can communicate telepathically through the fungal network that spans across vast regions underground. This connection allows them to access the memories and knowledge of the collective race.
+  - **Regenerative Growth:** Mycelians can heal quickly by regrowing their fungal tissues. They can also temporarily sacrifice parts of themselves to heal others.
+  - **Spore Manipulation:** They can release spores that can either heal, aid plant growth, or in combat, cause hallucinations, slow enemies, or even poison them.
+  - **Symbiosis:** Some Mycelians can form symbiotic relationships with other creatures, giving them enhanced abilities in exchange for protection or knowledge.
+- **Culture:** Mycelians live in vast underground cities made from living fungal material. Their entire society is based on collectivism and balance with nature. They have no concept of individualism; instead, they operate as a single entity with each Mycelian being a small part of the whole. Elders are revered for having experienced many lifetimes through the collective memory, making them sources of wisdom. Religiously, Mycelians believe in the "Eternal Cycle"—the continuous growth and decay of all life. Death is not feared but embraced as the beginning of new life. They are pacifists by nature but can defend themselves with powerful biological abilities when threatened.
+- **Regard by Other Races:** Other races often view them as mysterious, alien-like beings. Some fear them due to their strange appearance and telepathic abilities, while others revere them as ancient custodians of knowledge. They are often sought after for their medicinal abilities and understanding of ecosystems but are reluctant to share their knowledge with outsiders.
+
+## The Aetherians
+
+(Energy-Based Beings)
+
+- **Summary:** The Aetherians are beings of pure energy, composed of luminous particles that can take on various forms. They hail from an interdimensional realm known as the Aether, a plane of existence that overlaps with the physical world. Aetherians have limited interaction with the material world, often acting as guides or messengers.
+- **Abilities:**
+  - **Energy Manipulation:** Aetherians can absorb and release raw energy, shaping it into attacks, barriers, or even powering devices. Their energy can heal, destroy, or imbue objects with temporary power.
+  - **Phasing:** They can shift between the physical and aetherial planes, becoming intangible or invisible to those in the physical realm.
+  - **Shape-Shifting:** Though their natural form is a mass of glowing particles, Aetherians can take on physical forms for brief periods to interact with other beings.
+  - **Time Distortion:** Aetherians have a limited ability to manipulate time, often creating localized effects like slowing down or speeding up events for a few seconds.
+- **Culture:** The Aetherians do not experience time or space as physical races do, existing instead in a state of constant flux. Their culture is built around the idea of Balance, with a focus on maintaining harmony between the material and aetherial worlds. They view themselves as protectors of the natural order and strive to prevent disruptions in the flow of energy. Aetherians communicate through vibrations and patterns of light, each wave carrying complex information. They rarely gather in one place, existing as free-floating entities across their dimension. When necessary, they form "Convergences," where they unify for a specific goal or task, after which they dissipate back into the aether.
+- **Regard by Other Races:** To most races, Aetherians are regarded as ethereal spirits or divine messengers. They are often invoked in religious rituals or seen as omens. However, their detachment from the material world makes them hard to understand, and their motives are often viewed with suspicion. Some races attempt to harness Aetherians' energy, leading to conflict between the two worlds.
+
+## Siltkin
+
+(Amphibious Sand Dwellers)
+
+- **Summary:** The Siltkin are amphibious beings that evolved in the shifting sands of a vast desert coastline. Their bodies are covered in smooth, sand-like scales that blend perfectly with their environment. They live in an intricate network of underground caverns and sand tunnels, only coming to the surface at night or during sandstorms.
+- **Abilities:**
+  - **Sand Meld:** Siltkin can seamlessly merge with sand, traveling through it as if swimming in water. This ability allows them to remain hidden from enemies and predators.
+  - **Water Conjuration:** Although they live in arid regions, Siltkin can extract water from the atmosphere and underground reservoirs, using it for survival or to create weapons in combat.
+  - **Acidic Secretions:** Their skin can excrete a corrosive acid that helps them tunnel through tough stone and is also used as a defense mechanism against enemies.
+  - **Desert Storm Manipulation:** Some Siltkin can call upon the natural forces of the desert, summoning localized sandstorms to disorient enemies and provide cover.
+- **Culture:** Siltkin society is built around survival in one of the most hostile environments. They are a nomadic race, constantly moving to avoid the harsh desert sun. Their leaders are chosen not by birthright but by proving themselves in the relentless struggle for survival. The Siltkin have a deep respect for water, which they see as the essence of life, and their most sacred rituals involve finding and blessing new water sources. Despite their harsh lifestyle, the Siltkin are known for their intricate sand art, creating massive, temporary sculptures that are washed away by the winds as a reminder of life's impermanence.
+- **Regard by Other Races:** Other races often view the Siltkin as mysterious desert spirits, fearing their ability to vanish into the sand. However, the Siltkin are also seen as valuable guides for desert travelers. Their ability to find water and predict weather patterns makes them indispensable in the arid regions. However, their acidic defenses and storm-summoning abilities are greatly feared in times of conflict.
+
+## The Chronovores
+
+(Time-Eating Beings)
+
+- **Summary:** Chronovores are ancient beings that feed on the essence of time itself, subtly influencing the flow of history. They exist in the cracks between moments, siphoning time from living beings and objects to sustain themselves. They are rarely seen but leave behind a sense of lost time, like forgotten memories or missing hours.
+- **Abilities:**
+  - **Temporal Consumption:** Chronovores can absorb time from living beings, slowing their aging or stealing moments of their life, leaving victims disoriented or aged.
+  - **Time Reversal:** They can briefly reverse time for themselves or others, undoing injuries or errors in the immediate past. This power is taxing and can cause distortions if overused.
+  - **Temporal Veil:** Chronovores can shroud themselves in a veil of lost time, making them appear invisible or forgotten by those around them.
+  - **Reality Alteration:** By manipulating the timeline, they can alter small details of reality, such as moving objects, erasing minor events, or planting false memories.
+- **Culture:** Chronovores exist outside conventional time and space, living in "Temporal Sanctuaries"—pockets of time where they are free from the flow of the universe. Their society is structured around "The Cycle," a belief that time is a finite resource that must be balanced. While some Chronovores believe in using their powers sparingly, others feed recklessly, resulting in internal conflicts between factions. They do not reproduce but create new Chronovores by siphoning enough time from mortals to ascend them into their timeless existence. Their rituals often involve guiding or manipulating historical events to ensure the survival of the timeline, even if it means erasing people or events from existence.
+- **Regard by Other Races:** Other races have mixed feelings about Chronovores. While some see them as protectors of the timeline, others view them as malevolent forces that steal life and manipulate reality. Myths and legends often paint them as the cause of déjà vu or forgotten memories, and some races have formed cults dedicated to appeasing or worshiping them.
+
+## Cryosapien
+
+(Living Crystals)
+
+- **Summary:** The Cryosapiens are a race of sentient crystalline beings who originate from frozen caverns deep beneath the tundra. Their bodies are made from translucent, glowing crystals that radiate cold energy. They have no need for food or drink but absorb ambient magical energy, which sustains them.
+- **Abilities:**
+  - **Crystalline Growth:** Cryosapiens can generate and manipulate crystal structures, using them as barriers, weapons, or even as a means to communicate.
+  - **Frost Aura:** They emit an aura of intense cold, freezing the ground around them and slowing the movements of enemies.
+  - **Energy Absorption:** Cryosapiens can absorb ambient magical energy, reducing the effectiveness of magic around them or powering their abilities.
+  - **Reflective Shielding:** Their crystal bodies can reflect light and some forms of magic, making them highly resistant to certain elemental spells.
+- **Culture:** Cryosapien society revolves around preservation and harmony. Their culture is based on stillness and reflection, much like the frozen wastelands they call home. They communicate through resonant vibrations within their crystalline bodies, and their language is musical and melodic. The Cryosapiens believe in the sanctity of knowledge stored in crystal form. Their history and wisdom are inscribed within massive crystal libraries, which they guard fiercely. They have no concept of war, viewing conflict as a disruption to the natural balance, but they are not defenseless and will protect their caverns if needed.
+- **Regard by Other Races:** Other races view the Cryosapiens with a sense of awe and mystery. Their cold, emotionless demeanor can make them seem alien, but their ability to control magic and store vast amounts of knowledge makes them respected as scholars. Some cultures seek them out as advisors, while others fear their icy, unfeeling nature.
+
+## Plasmids
+
+(Living Liquids)
+
+- **Summary:** The Plasmids are amorphous, liquid-based beings capable of shifting their forms at will. They were born from a deep oceanic rift, filled with strange, magical energies. Their bodies are made of a viscous, semi-transparent substance that can change color and density, allowing them to shape-shift into various forms.
+- **Abilities:**
+  - **Shape-Shifting:** Plasmids can morph their liquid bodies into any shape or object, giving them unmatched versatility in combat and exploration.
+  - **Absorption:** They can absorb certain materials into their form, temporarily gaining the properties of those materials (e.g., becoming metallic or stone-like).
+  - **Fluid Travel:** Plasmids can move through water and other liquids with ease, and can even pass through small gaps by transforming into a liquid state.
+  - **Elemental Shifting:** Some Plasmids can absorb elemental energies, temporarily becoming beings of fire, ice, or electricity.
+- **Culture:** Plasmids have a highly adaptive culture, shaped by their ability to change forms and roles at will. They don’t have a fixed societal hierarchy, as anyone can become anything, from a leader to a builder. Their cities are found in deep underwater caverns, where they create structures using their own bodies, constantly reshaping their environment. They believe in the principle of Flux, the constant flow of change. Plasmid philosophy teaches that nothing in the world is permanent and that adaptability is the highest virtue. They value flexibility, cooperation, and balance with nature.
+- **Regard by Other Races:** Other races often see Plasmids as strange and unpredictable. Their liquid nature and ability to shape-shift make them difficult to trust for some, while others are fascinated by their unique biology. Plasmids are often employed as spies, messengers, or diplomats due to their adaptable and deceptive forms.
+
+## Riftborn
+
+(Dimensional Travelers)
+
+- **Summary:** The Riftborn are a race of interdimensional travelers, existing partially outside the fabric of the physical world. Their true forms are ever-shifting, translucent figures, constantly in flux between dimensions. They can appear in the physical world only for short periods before they are drawn back to their home dimension, known as the Rift.
+- **Abilities:**
+  - **Dimensional Shift:** Riftborn can temporarily phase out of the material world, becoming invulnerable to attacks and bypassing obstacles.
+  - **Portal Creation:** They can create small rifts in space, allowing for short-range teleportation or summoning objects from other dimensions.
+  - **Temporal Perception:** Riftborn experience time differently, allowing them to perceive future possibilities and make decisions with uncanny foresight.
+  - **Reality Bending:** They can manipulate space and time on a small scale, creating localized distortions to confuse enemies or alter the flow of battle.
+- **Culture:** Riftborn society is based on the exploration and manipulation of reality itself. They see the universe as a tapestry of interconnected dimensions and believe it is their duty to weave these dimensions together. Their home, the Rift, is a chaotic place of ever-shifting landscapes and constantly altering physics, and their cities reflect this, with structures that seem to bend reality itself. Their culture values knowledge and exploration, seeing every new dimension they visit as an opportunity to learn and evolve. Riftborn often travel to other worlds not just for trade or diplomacy, but to gather new ideas and perspectives.
+- **Regard by Other Races:** To most races, the Riftborn are regarded as enigmatic and otherworldly. Their ability to manipulate time and space makes them seem almost god-like, but their fleeting nature causes mistrust. Some view them as tricksters or manipulators, while others seek them out for their ability to see and influence the future.
+
+## Thornkin
+
+(Plant Beings)
+
+- **Summary:** The Thornkin are a race of plant-like beings who have evolved from the ancient forests. Their bodies are made of twisting vines, bark, and leaves, giving them a humanoid appearance but with distinctly plant-based features. They are deeply connected to the life force of the forest and act as its guardians.
+- **Abilities:**
+  - **Plant Manipulation:** Thornkin can control plants around them, causing rapid growth of vines, trees, or flowers to entangle enemies or form defensive structures.
+  - **Regeneration:** As beings of nature, Thornkin can regrow lost limbs and heal wounds by drawing upon the life force of nearby plants.
+  - **Thorned Defense:** They can harden parts of their bodies into sharp thorns, creating natural armor or using them as weapons.
+  - **Photosynthesis:** Thornkin can draw energy from sunlight to heal themselves or fuel their abilities, making them incredibly resilient in natural environments.
+- **Culture:** Thornkin culture is centered around the idea of Harmony with Nature. They live in vast, hidden groves, where they work in concert with the forest to maintain balance and ensure that the natural world thrives. They have no written language, instead passing down their history and knowledge through Lifestones, living memories stored in the bark of ancient trees. Thornkin believe that all life is interconnected, and they see themselves as protectors of the natural order. They have a deep respect for life and death, seeing both as necessary parts of the cycle of existence. Their leaders, known as The Rooted Ones, are ancient Thornkin who are physically bound to the largest trees, serving as living avatars of the forest.
+- **Regard by Other Races:** To outsiders, Thornkin are often viewed as mysterious forest spirits. Some see them as peaceful protectors, while others fear them as dangerous forces of nature. They are often regarded with a mix of reverence and caution, especially by races that seek to exploit natural resources.
+
+## Skyborn
+
+(Avian Humanoids)
+
+- **Summary:** The Skyborn are a race of avian humanoids with large wings and light, hollow bones that allow them to soar through the skies. They hail from floating cities perched on towering mountain peaks, where they live in harmony with the wind and weather.
+- **Abilities:**
+  - **Flight:** The most iconic trait of the Skyborn, they can fly with great speed and agility, making them difficult to pin down in battle.
+  - **Wind Manipulation:** Some Skyborn can control the winds, creating powerful gusts to knock enemies off balance or enhance their own speed.
+  - **Hollowbone Agility:** Their light bodies give them incredible reflexes, making them hard to hit and allowing them to perform acrobatic feats.
+  - **Sky Sense:** Skyborn have an innate connection to the weather, allowing them to predict storms, control air currents, or even call down lightning in rare cases.
+- **Culture:** Skyborn culture revolves around freedom and exploration. They see themselves as the rightful rulers of the skies, and their society is highly meritocratic, with individuals rising to prominence based on their skills in flight and combat. Their floating cities are built upon large rock formations and are connected by massive bridges of cloud-like material. They have a strong spiritual connection to the Sky Spirits, whom they believe guide the winds and storms. Skyborn are often nomadic, constantly exploring new skies and mapping uncharted regions. They value independence and self-reliance but also foster strong bonds within their tightly-knit flocks.
+- **Regard by Other Races:** Other races often see the Skyborn as aloof and distant, both literally and figuratively. Their ability to fly makes them seem superior to grounded races, and they are sometimes regarded as arrogant. However, Skyborn are also admired for their speed and their ability to control the weather, making them valuable allies in times of need.
+
+## Stonesworn
+
+(Earthbound Golems)
+
+- **Summary:** The Stonesworn are a race of sentient stone golems, born from ancient rituals that infused the essence of life into rocks and minerals. They dwell in vast underground cities and deep mountain fortresses, where they serve as guardians of the land and keepers of ancient knowledge. Their sturdy bodies are naturally resistant to harm, and they are deeply connected to the earth.
+- **Abilities:**
+  - **Stoneform Resilience:** Stonesworn are incredibly durable, with bodies made of living stone that provide immense physical strength and natural resistance to damage.
+  - **Earth Manipulation:** They can manipulate the earth around them, creating barriers, weapons, or even reshaping the terrain in battle.
+  - **Elemental Absorption:** Stonesworn can absorb minerals and elements from the earth, allowing them to strengthen their bodies or fuel their magical abilities.
+  - **Unyielding Stamina:** Stonesworn do not tire easily, allowing them to fight or work for long periods without needing rest.
+- **Culture:** The Stonesworn revere the Earth Mother, a primal force they believe created both their people and the land itself. Their society is highly traditional, with a strong emphasis on duty, preservation, and protecting the natural world. They record history through geoglyphs—carvings etched into stone that tell the stories of their people and the earth's history. Stonesworn value patience and wisdom, often consulting ancient elders before making important decisions. Their culture also honors craftsmanship, with master stonecrafters creating magnificent works of architecture and sculpture.
+- **Regard by Other Races:** The Stonesworn are generally respected for their wisdom and fortitude, but their slow, deliberate manner can be frustrating to more impatient races. Some see them as immovable guardians, while others view them as relics of a bygone era. Due to their connection with the earth, they are often sought as advisors and mediators in disputes over land and resources.
+
+## Emberkin
+
+(Fireborn Elementals)
+
+- **Summary:** The Emberkin are a race of humanoid fire elementals, born from the heart of volcanoes and molten rivers. Their bodies glow with inner heat, and they are known for their volatile personalities and fierce independence. They dwell in fiery, ash-covered lands where they thrive in high temperatures, crafting weapons and tools from the molten earth.
+- **Abilities:**
+  - **Pyrokinesis:** Emberkin can control and generate flames, using fire as both a weapon and a tool for shaping metal and other materials.
+  - **Heat Resistance:** They are completely immune to fire and heat, allowing them to survive and thrive in volcanic regions.
+  - **Flame Shift:** Some Emberkin can temporarily shift into a being of pure fire, becoming nearly intangible and burning anything they touch.
+  - **Molten Touch:** They can heat their bodies at will, allowing them to melt through metal or sear their enemies with a mere touch.
+- **Culture:** Emberkin culture revolves around the concept of self-forging—the idea that individuals must shape themselves as one shapes metal, through trial by fire. They value personal strength, independence, and forging their own paths in life. Emberkin are known for their fierce tempers but also their unbreakable loyalty to their clans. They have a strong tradition of smithing, creating some of the most powerful weapons and armor in the known world. The Molten Forge is the center of their society, both a place of crafting and a spiritual hearth where they commune with the Flame Spirit, the embodiment of their fiery essence.
+- **Regard by Other Races:** Other races often view the Emberkin as passionate but unpredictable. Their temper and love of combat make them respected warriors, but their fiery nature can also lead to conflict. Many seek them out for their masterful smithing skills, but their lands are often considered too dangerous to visit without strong protection.
+
+## Mistsworn
+
+(Shapeshifting Spirits)
+
+- **Summary:** The Mistsworn are ethereal, shapeshifting beings that emerge from the dense, enchanted mists of mystical forests and marshlands. They can alter their forms at will, appearing as animals, fog, or humanoid figures. They are deeply connected to the natural world and act as guardians of sacred, mist-shrouded groves that few outsiders ever see.
+- **Abilities:**
+  - **Shapeshifting:** Mistsworn can take on various forms, from animals to indistinct mist, allowing them to blend into their environment or escape danger.
+  - **Mist Manipulation:** They can control and create mist, obscuring vision, confusing enemies, or even creating protective barriers of dense fog.
+  - **Invisibility:** When in mist form, they are nearly invisible and can pass through solid objects, making them difficult to detect or harm.
+  - **Dreamweaving:** Mistsworn have the ability to enter and influence dreams, using them as a form of communication or to plant ideas in the minds of others.
+- **Culture:** The Mistsworn are a secretive and enigmatic race, with a culture based on the idea of transience and the ever-changing nature of life. They view the world as fluid, like the mist they control, and believe that nothing should remain static. Their homes are hidden within the mists, ever-shifting and impossible to find without their guidance. The Mistsworn communicate with one another through a form of dream-sharing and mental connection, allowing them to exchange knowledge without words. They serve as protectors of the natural world, ensuring that balance is maintained and that no one disturbs the sacred groves they watch over.
+- **Regard by Other Races:** Other races often fear or misunderstand the Mistsworn. Their ability to shapeshift and manipulate dreams can make them seem untrustworthy or deceitful, leading to legends of them as trickster spirits. However, those who gain their trust find them to be wise and peaceful, willing to share their knowledge of nature and the spiritual realm. They are rarely seen, and many consider them nothing more than myths or ghostly apparitions.
+
+## Shellborn
+
+(Oceanic Turtles)
+
+- **Summary:** The Shellborn are a race of turtle-like humanoids who dwell beneath the waves, their sturdy shells and slow but purposeful movement making them the ancient protectors of the oceans. They are long-lived, with deep ties to the rhythms of the sea and the tides. Shellborn live in great underwater cities built into coral reefs and oceanic caverns.
+- **Abilities:**
+  - **Shell Defense:** Their massive, armored shells provide natural protection, allowing them to withstand heavy attacks and environmental dangers.
+  - **Water Manipulation:** Some Shellborn have the ability to control water, shaping currents, creating barriers, or propelling themselves through the ocean at great speed.
+  - **Aquatic Affinity:** They are fully amphibious and can survive both underwater and on land, though they are more at home beneath the waves.
+  - **Tidal Strength:** Shellborn draw strength from the tides, becoming more powerful during high tide and in proximity to large bodies of water.
+- **Culture:** The Shellborn have a deep, spiritual connection to the Tide Mother, the deity they believe governs the sea and its cycles. Their culture is based on the principle of endurance—like the sea, they believe in constant, slow progression rather than fast action. Their society is highly ritualistic, with ceremonies tied to the phases of the moon and the changing of the tides. They build intricate, organic cities out of coral and seashells, with a focus on harmony with the ocean. Shellborn are skilled artisans, crafting weapons, armor, and tools from the treasures of the deep. Their language is slow and melodic, mimicking the sound of the ocean.
+- **Regard by Other Races:** Other races often view the Shellborn as wise and patient, though their slow, deliberate nature can be frustrating to those who seek quick action. They are respected as guardians of the seas, and their underwater cities are seen as marvels of natural architecture. However, their tendency to act slowly and methodically can cause tension with races that value speed and efficiency.
